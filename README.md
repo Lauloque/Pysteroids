@@ -3,6 +3,8 @@ A Python project built during the Boot.dev course: [Build Asteroids using Python
 
 This project is a simple implementation of the classic game Asteroids using the Pygame library.
 
+![course completion badge](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/c4ded44a-c75b-4506-abb0-3195e06bc4e2.jpeg?v=1769639384)
+
 ## Installation
 
 To install and run this project, follow these steps:
