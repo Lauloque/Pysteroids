@@ -1,7 +1,7 @@
 # Build Asteroids
 A Python project built during the Boot.dev course: [Build Asteroids using Python and Pygame \[Full Course\] | Boot.dev](https://www.boot.dev/courses/build-asteroids-python)
 
-This project is a simple implementation of the classic game Asteroids using the Pygame library. It includes features such as player movement, asteroid spawning, collision detection, and scoring.
+This project is a simple implementation of the classic game Asteroids using the Pygame library.
 
 ## Installation
 
